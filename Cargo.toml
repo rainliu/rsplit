@@ -1,0 +1,12 @@
+[package]
+name = "rsplit"
+version = "0.1.2"
+authors = ["Rain Liu <yuliu@outlook.com>"]
+description = "Resource Split for BIN/IVF/WEBM/PSNR/YUV/..."
+license = "MIT"
+documentation = "https://github.com/rainliu/rsplit"
+homepage = "https://github.com/rainliu/rsplit"
+repository = "https://github.com/rainliu/rsplit"
+
+[dependencies]
+
